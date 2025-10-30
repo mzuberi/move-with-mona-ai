@@ -1,30 +1,26 @@
-# Move With Mona AI ✧
+# Move With Mona AI 
 
 A gentle, empowering AI assistant built by Mona SK — combining mindful movement, self-awareness, and modern technology.
 
 This chatbot speaks in Mona’s nurturing, real voice. It meets you exactly where you are and offers:
-- ✨ Personalized movement guidance
-- ✨ Encouraging words + mindset resets
-- ✨ Direct access to Mona’s own blog posts
-- ✨ A tone that’s soft, grounded, and lovingly honest
+- Personalized movement guidance
+- Encouraging words + mindset resets
+- Direct access to Mona’s own blog posts
+- A tone that’s soft, grounded, and lovingly honest
 
 ---
 
-## 💡 Why I Built This
+## Why I Built This
 
 I wanted to create an experience that blends everything I am:  
-☁️ Cloud tech,  
-🌿 Wellness,  
-🤍 Healing,  
-🧘‍♀️ Movement,  
-🗝 And purpose.
-
-**Move With Mona AI** is here to be a calm, strong companion —  
-like your best friend, Pilates guide, and inner coach in one.
-
+Cloud tech,  
+Wellness,  
+Healing,  
+Movement,  
+And purpose.
 ---
 
-## 🛠 Built With
+## Built With
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [LangChain](https://www.langchain.com/)
@@ -34,7 +30,7 @@ like your best friend, Pilates guide, and inner coach in one.
 
 ---
 
-## 🧠 What It Does
+## What It Does
 1. Loads Mona’s actual blog content
 2. Embeds it into a vector memory
 3. Responds to your mood or question with calm, confident advice
@@ -42,7 +38,7 @@ like your best friend, Pilates guide, and inner coach in one.
 
 ---
 
-## 🚀 To Run Locally
+## To Run Locally
 
 ```bash
 git clone https://github.com/mzuberi/move-with-mona-ai.git
