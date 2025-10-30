@@ -2,7 +2,7 @@
 
 A gentle, empowering AI assistant built by Mona SK — combining mindful movement, self-awareness, and modern technology.
 
-This chatbot speaks in Mona’s nurturing, real voice. It meets you exactly where you are and offers:
+This chatbot offers:
 - Personalized movement guidance
 - Encouraging words + mindset resets
 - Direct access to Mona’s own blog posts
@@ -12,12 +12,7 @@ This chatbot speaks in Mona’s nurturing, real voice. It meets you exactly wher
 
 ## Why I Built This
 
-I wanted to create an experience that blends everything I am:  
-Cloud tech,  
-Wellness,  
-Healing,  
-Movement,  
-And purpose.
+I wanted to create an experience that blends Tech and Wellness
 ---
 
 ## Built With
